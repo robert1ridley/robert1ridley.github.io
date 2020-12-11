@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Ridley"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Software Engineer and Natural Language Processing Researcher"
   location         : "Nanjing, China"
   employer         : "Nanjing University"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
