@@ -23,7 +23,7 @@ Automated Cross-prompt Scoring of Essay Traits \\
 * Cao, Y., He, L., **Ridley, R.**, Dai, X. \\
 Integrating BERT and Score-based Feature Gates for Chinese Grammatical Error Diagnosis \\
 *Proceedings of the 6th Workshop on Natural Language Processing Techniques for Educational Applications* (2020) [[paper](https://www.aclweb.org/anthology/2020.nlptea-1.7/)]
-* Wang, R., **Ridley, R.**, Qu, W., Dai, X. \\
+* Wang, R., **Ridley, R.**, Su, X., Qu, W., Dai, X. \\
 A novel reasoning mechanism for multi-label text classification \\
 *Information Processing & Management* [[paper](https://www.sciencedirect.com/science/article/pii/S0306457320309341)]
 * **Ridley, R.**, He, L., Dai, X., Huang, S., Chen, J. \\
