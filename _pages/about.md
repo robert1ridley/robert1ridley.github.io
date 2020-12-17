@@ -10,7 +10,7 @@ redirect_from:
 
 Originally from the UK, I have been living in China for the past eight years. In 2018, I was admitted to Nanjing University where I am currently pursuing my Master's degree in Software Engineering under the supervision of Professor Xinyu Dai.
 
-Research Interest
+Research Interests
 ======
 
 My research is primarily focused on Natural Language Processing, including works on Grammatical Error Correction, Multi-label Classification, and Automated Essay Scoring.
