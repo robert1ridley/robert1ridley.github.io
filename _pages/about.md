@@ -42,5 +42,6 @@ Teaching Experience
 Awards
 ======
 * Chinese Government Outstanding International Student Scholarship (2019)
+* Jiangsu Provincial Government Outstanding International Student Scholarship (2020)
 * Nanjing Municipal Scholarship (2020)
 * Nanjing Municipal Scholarship (2019)
