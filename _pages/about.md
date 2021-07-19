@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Originally from the UK, I have been living in China for the past eight years. In 2018, I was admitted to Nanjing University where I am currently pursuing my Master's degree in Software Engineering under the supervision of Professor Xinyu Dai.
+Originally from the UK, I have been living in China for the past eight years. In 2018, I was admitted to Nanjing University where I completed my Master's degree in Software Engineering. I am currently working on my PhD, also at Nanjing University, under the supervision of Professor Xinyu Dai.
 
 Research Interests
 ======
@@ -19,7 +19,7 @@ Academic Publications and Preprints
 ======
 * **Ridley, R.**, He, L., Dai, X., Huang, S., Chen, J. \\
 Automated Cross-prompt Scoring of Essay Traits \\
-*AAAI 2021* (accepted)
+*AAAI 2021* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17620)]
 * Cao, Y., He, L., **Ridley, R.**, Dai, X. \\
 Integrating BERT and Score-based Feature Gates for Chinese Grammatical Error Diagnosis \\
 *Proceedings of the 6th Workshop on Natural Language Processing Techniques for Educational Applications* (2020) [[paper](https://www.aclweb.org/anthology/2020.nlptea-1.7/)]
@@ -30,10 +30,10 @@ A novel reasoning mechanism for multi-label text classification \\
 Prompt Agnostic Essay Scorer: A Domain Generalization Approach to Cross-prompt Automated Essay Scoring \\
 *arXiv preprint arXiv: 2008.01441* [[paper](https://arxiv.org/abs/2008.01441v1)]
 
-Other Publications
+Academic Qualifications
 ======
-* Reviewer: *The Applied AI and Natural Language Processing Workshop* [[book](https://www.packtpub.com/product/the-applied-ai-and-natural-language-processing-workshop/9781800208742)]
-* Reviewer: *The Deep Learning Workshop* [[book](https://www.packtpub.com/product/the-deep-learning-workshop/9781839219856)]
+* Master's Degree (MSc), Software Engineering. *Nanjing University (2018–2021)*
+* PhD, Computer Science. *Nanjing University (2021–Current)*
 
 Teaching Experience
 ======
@@ -41,6 +41,7 @@ Teaching Experience
 
 Awards
 ======
+* Nanjing University Excellent Master's Thesis Nomination (2021)
 * Chinese Government Outstanding International Student Scholarship (2019)
 * Jiangsu Provincial Government Outstanding International Student Scholarship (2020)
 * Nanjing Municipal Scholarship (2020)
