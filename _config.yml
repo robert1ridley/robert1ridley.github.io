@@ -82,11 +82,7 @@ analytics:
 author:
   name             : "Robert Ridley"
   avatar           : "profile.jpg"
-  bio              : "PhD
-  
-  Computer Science
-  
-  Natural Language Processing"
+  bio              : "PhD\nComputer Science\nNatural Language Processing"
   location         : "Nanjing, China"
   employer         : "Nanjing University"
   pubmed           : 
