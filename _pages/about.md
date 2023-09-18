@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Originally from the UK, I have been living in China for the past eight years. In 2018, I was admitted to Nanjing University where I completed my Master's degree in Software Engineering. I am currently working on my PhD, also at Nanjing University, under the supervision of Professor Xinyu Dai.
+Originally from the UK, I have been living in China for the past ten years. In 2018, I was admitted to Nanjing University where I completed my Master's degree in Software Engineering. I am currently working on my PhD, also at Nanjing University, under the supervision of Professor Xinyu Dai.
 
 Research Interests
 ======
@@ -37,6 +37,7 @@ Academic Qualifications
 
 Teaching Experience
 ======
+* Teaching Assistant: Artificial Intelligence Programme Design for undergraduate students (Spring, 2022)
 * Teaching Assistant: Natural Language Processing for postgraduate students (Fall, 2019)
 
 Awards
