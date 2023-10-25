@@ -17,6 +17,9 @@ My research is primarily focused on Natural Language Processing, including works
 
 Academic Publications and Preprints
 ======
+* **Ridley, R.**, Wu, Z., Zhang, J., Huang, S., Dai, X. \\
+Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain \\
+*EMNLP 2023* (accepted) [Paper link to come]
 * **Ridley, R.**, He, L., Dai, X., Huang, S., Chen, J. \\
 Automated Cross-prompt Scoring of Essay Traits \\
 *AAAI 2021* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17620)]
