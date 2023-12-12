@@ -19,10 +19,10 @@ Academic Publications and Preprints
 ======
 * **Ridley, R.**, Wu, Z., Zhang, J., Huang, S., Dai, X. \\
 Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain \\
-*EMNLP 2023* [[paper](https://aclanthology.org/2023.emnlp-main.1042)][[talk](https://vimeo.com/893579613)]
+*EMNLP 2023* [[paper](https://aclanthology.org/2023.emnlp-main.1042)] [[talk](https://vimeo.com/893579613)]
 * **Ridley, R.**, He, L., Dai, X., Huang, S., Chen, J. \\
 Automated Cross-prompt Scoring of Essay Traits \\
-*AAAI 2021* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17620)]
+*AAAI 2021* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17620)] [[talk](https://vimeo.com/893607100?share=copy)]
 * Cao, Y., He, L., **Ridley, R.**, Dai, X. \\
 Integrating BERT and Score-based Feature Gates for Chinese Grammatical Error Diagnosis \\
 *Proceedings of the 6th Workshop on Natural Language Processing Techniques for Educational Applications* (2020) [[paper](https://www.aclweb.org/anthology/2020.nlptea-1.7/)]
