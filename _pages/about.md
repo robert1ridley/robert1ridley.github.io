@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Originally from the UK, I have been living in China for the past ten years. In 2018, I was admitted to Nanjing University where I completed my Master's degree in Software Engineering. I am currently working on my PhD, also at Nanjing University, under the supervision of Professor Xinyu Dai.
+Originally from the UK, I have been living in China since 2013. In 2018, I was admitted to Nanjing University where I completed my Master's degree in Software Engineering. I am currently working on my PhD, also at Nanjing University, under the supervision of Professor Xinyu Dai.
 
 Research Interests
 ======
 
-My research is primarily focused on Natural Language Processing, including works on Grammatical Error Correction, Multi-label Classification, and Automated Essay Scoring.
+My research is primarily focused on Natural Language Processing, including works on Grammatical Error Correction, Multi-label Classification, Automated Essay Scoring and Domain Specific Language Generation.
 
 Academic Publications and Preprints
 ======
@@ -45,6 +45,7 @@ Teaching Experience
 
 Awards
 ======
+* Nanjing University Student of the Year Award Finalist (2023)
 * Nanjing University Excellent Master's Thesis Nomination (2021)
 * Chinese Government Outstanding International Student Scholarship (2019)
 * Jiangsu Provincial Government Outstanding International Student Scholarship (2020)
