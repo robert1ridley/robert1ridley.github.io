@@ -17,6 +17,12 @@ My research is primarily focused on Natural Language Processing, including works
 
 Academic Publications and Preprints
 ======
+* **Ridley, R.**, Wu, Z., Zhou, J., Huang, S., Dai, X. \\
+Program vocabulary supervision for domain specific language generation \\
+*SCIENCE CHINA Information Sciences (journal)* (accepted)
+* Ju, J., Mao, Y., Wu, Z., **Ridley, R.**, Chen, J., Dai, X. \\
+Bridging Questions and Charts: A Weakly Supervised Alignment Model for Chart Question Answering \\
+*NLPCC 2025* [[paper](https://link.springer.com/chapter/10.1007/978-981-95-3349-7_11)]
 * **Ridley, R.**, Wu, Z., Zhang, J., Huang, S., Dai, X. \\
 Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain \\
 *EMNLP 2023* [[paper](https://aclanthology.org/2023.emnlp-main.1042)] [[talk](https://vimeo.com/893579613)]
@@ -45,9 +51,16 @@ Teaching Experience
 
 Awards
 ======
+* Best Reviewer, NLPCC 2025
 * Nanjing University Student of the Year Award Finalist (2023)
 * Nanjing University Excellent Master's Thesis Nomination (2021)
 * Chinese Government Outstanding International Student Scholarship (2019)
 * Jiangsu Provincial Government Outstanding International Student Scholarship (2020)
 * Nanjing Municipal Scholarship (2020)
 * Nanjing Municipal Scholarship (2019)
+
+Review Services
+======
+* AAAI Conference on Artificial Intelligence (AAAI), 2026
+* Natural Language Processing and Chinese Computing (NLPCC), 2025
+* Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2025
